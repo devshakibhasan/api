@@ -1,0 +1,53 @@
+{
+    "doctors" : [
+        {
+            "id" : 1,
+            "name":  "Dr. Jenny Roy",
+            "job": "Heart Surgeon",
+            "price": "600tk"
+            
+        },
+        {
+            "id" : 2,
+            "name":  "Dr. Tanisha Khan",
+            "job": "Orthopaedic",
+            "price": "500tk"
+            
+        },
+        {
+            "id" : 3,
+            "name":  "Dr. Zak Wolf",
+            "job": "Cardiologist",
+            "price": "700tk"
+            
+        },
+        {
+            "id" : 4,
+            "name":  "Dr. Iva Karpenter",
+            "job": "Dentist",
+            "price": "500tk"
+            
+        },
+        {
+            "id" : 5,
+            "name":  "Dr. Daniels",
+            "job": "Heart Surgeon",
+            "price": "700tk"
+            
+        },
+        {
+            "id" : 6,
+            "name":  "Dr. Mayme Gomez",
+            "job": "Heart Surgeon",
+            "price": "700tk"
+            
+        },
+        {
+            "id" : 7,
+            "name":  "Dr. Jhonshon",
+            "job": "Dentist",
+            "price": "600tk"
+            
+        }
+    ]
+}
