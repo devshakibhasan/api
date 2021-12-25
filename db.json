@@ -34,7 +34,7 @@
         },
         {
             "id" : 5,
-            "image": ,
+            "image": "images/doctor_4.png",
             "name":  "Dr. Daniels",
             "job": "Heart Surgeon",
             "price": "700tk"
@@ -42,7 +42,7 @@
         },
         {
             "id" : 6,
-            "image": ,
+            "image": "images/doctor_4.png",
             "name":  "Dr. Mayme Gomez",
             "job": "Heart Surgeon",
             "price": "700tk"
@@ -50,7 +50,7 @@
         },
         {
             "id" : 7,
-            "image": ,
+            "image": "images/doctor_4.png",
             "name":  "Dr. Jhonshon",
             "job": "Dentist",
             "price": "600tk"
